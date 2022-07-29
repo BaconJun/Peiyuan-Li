@@ -1,9 +1,9 @@
 ﻿# Unity computer game
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+My project is to make a 2D video game with Unity. You can use your keyboard to control the character to move.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Peiyuan | Experimental high school Beijing | Computer Science | Senior 2 |
+| Peiyuan | The Experimental High School Attached to Beijing Normal University | Computer Science | Senior 2 |
 
 ![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
   
@@ -19,6 +19,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+My first milestone was to learn some basic things about Unity and add some basic elements to my game. After installing Unity and creating a new project, I dragged the sprites folder into the project which can be downloaded from the instruction I read. The great thing is Unity already had a gravity system, so I just add colliders(also called the hitbox) to all the elements. The instruction also provide some animations, so when I edited the animator interface and started the game, the whole game looked animate.
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
