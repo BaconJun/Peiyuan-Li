@@ -22,5 +22,5 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
   
 
 My first milestone was to learn some basic things about Unity and add some basic elements to my game. After installing Unity and creating a new project, I dragged the sprites folder into the project which can be downloaded from the instruction I read. The great thing is Unity already had a gravity system, so I just add colliders(also called the hitbox) to all the elements. The instruction also provide some animations, so when I edited the animator interface and started the game, the whole game looked animate.
-
+ 
 [![My First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1659104550/video_to_markdown/images/youtube--7Rtlm-mrvvE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/7Rtlm-mrvvE "My First Milestone"){:target="_blank" rel="noopener"}
