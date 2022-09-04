@@ -12,7 +12,7 @@ My project is to make a 2D video game with Unity. You can use your keyboard to c
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://youtu.be/XoRwCl1TwKc "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1659104550/video_to_markdown/images/youtube--7Rtlm-mrvvE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/XoRwCl1TwKc "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 My second milestone was to control the graphics throughout the game to make it look more like a mini-game. I added a pen that would draw as we moved to the right to create a floor that the character could move on. At the same time, the whole game will move. At the same time, I added more animations to make the character's movements look smoother and behave differently when jumping. Of course, in case the game doesn't end after the character walks out of the frame, I added an end condition.
